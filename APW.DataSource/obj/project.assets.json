@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
+      "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
       "projectName": "APW.DataSource",
-      "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
+      "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
       "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\obj\\",
+      "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,11 +70,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
-              "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
+            "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
+              "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
             },
-            "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
-              "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
+            "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
+              "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
             }
           }
         }

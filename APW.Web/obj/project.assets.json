@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Web\\APW.Web.csproj",
+      "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\APW.Web.csproj",
       "projectName": "APW.Web",
-      "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Web\\APW.Web.csproj",
+      "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\APW.Web.csproj",
       "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Web\\obj\\",
+      "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj": {}
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
         "projectName": "APW.Architecture",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
         "projectName": "APW.DataSource",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,11 +90,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
               },
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj",
         "projectName": "APW.Indicators",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.DataSource\\APW.DataSource.csproj"
               },
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj",
         "projectName": "APW.Models",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj",
         "projectName": "PrograAvanzadaWeb_Sema02.1",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -287,14 +287,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj"
               },
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Indicators\\APW.Indicators.csproj"
               },
-              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
-                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
+              "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj": {
+                "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Models\\APW.Models.csproj"
               }
             }
           }

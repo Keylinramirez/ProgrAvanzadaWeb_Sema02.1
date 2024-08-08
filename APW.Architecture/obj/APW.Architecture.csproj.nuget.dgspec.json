@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {}
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
+    "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
         "projectName": "APW.Architecture",
-        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
+        "projectPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\APW.Architecture.csproj",
         "packagesPath": "C:\\Users\\keyli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\PrograAvanzadaWeb_Sema02.1\\APW.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
