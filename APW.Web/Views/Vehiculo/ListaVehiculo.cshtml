@@ -1,0 +1,25 @@
+﻿@model CarViewModel
+
+@{
+    ViewData["Title"] = "Lista Vehículos";
+}
+
+<h1>VLista Vehículos"</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Marca</th>
+            <th>Modelo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cars)
+        {
+            <tr>
+                <td>@item.Brand</td>
+                <td>@item.Model</td>
+            </tr>
+        }
+    </tbody>
+</table>

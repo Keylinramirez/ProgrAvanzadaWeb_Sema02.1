@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PrograAvanzadaWeb_Sema02.1.props" />
+</Project>

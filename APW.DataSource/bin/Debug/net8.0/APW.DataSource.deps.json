@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "APW.DataSource/1.0.0": {
+        "dependencies": {
+          "APW.Architecture": "1.0.0",
+          "APW.Models": "1.0.0"
+        },
+        "runtime": {
+          "APW.DataSource.dll": {}
+        }
+      },
+      "APW.Architecture/1.0.0": {
+        "runtime": {
+          "APW.Architecture.dll": {}
+        }
+      },
+      "APW.Models/1.0.0": {
+        "runtime": {
+          "APW.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APW.DataSource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APW.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APW.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

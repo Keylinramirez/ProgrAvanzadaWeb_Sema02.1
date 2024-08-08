@@ -1,0 +1,11 @@
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
