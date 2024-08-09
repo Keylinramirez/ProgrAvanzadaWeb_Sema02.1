@@ -9,3 +9,15 @@ C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Models\
 C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
 C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.pdb
 C:\Users\keyli\OneDrive\Documentos\GitHub\PrograAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.sourcelink.json
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\Users\keyli\OneDrive\Documentos\GitHub\ProgrAvanzadaWeb_Sema02.1\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll

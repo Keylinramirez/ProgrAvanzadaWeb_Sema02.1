@@ -1,0 +1,41 @@
+﻿@model PrograAvanzadaWeb_Sema02._1.ViewModel.CarViewModel
+
+@{
+    ViewData["Title"] = "Detalles de Vehículos";
+}
+
+<h1>Detalles de Vehículos</h1>
+
+<form asp-action="Read" method="get">
+    <div class="form-group">
+        <label for="carId">Enter Vehicle ID:</label>
+        <input type="text" id="carId" name="id" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Brand</th>
+                <th>Model</th>
+                <th>RegisteredTime</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Brand</td>
+                <td>@Model.Model</td>
+                <td>@Model.RegisteredTime</td>
+            </tr>
+        </tbody>
+    </table>
+}
+else
+{
+    <p>The vehicle was not found.</p>
+}

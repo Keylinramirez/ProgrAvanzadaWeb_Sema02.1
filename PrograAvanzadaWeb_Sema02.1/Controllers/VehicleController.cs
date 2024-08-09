@@ -9,48 +9,80 @@ namespace PrograAvanzadaWeb_Sema02._1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class VehicleController : ControllerBase
+    public class VehicleController(IVehicleSource vehicleSource) : ControllerBase
     {
-        private readonly IVehicleSource _vehicleSource;
-
-        public VehicleController(IVehicleSource vehicleSource) => _vehicleSource = vehicleSource;
+        private readonly IVehicleSource _vehicleSource = vehicleSource;
 
         // GET: api/<VehicleController>
-        [HttpGet]
-        public IEnumerable<CarViewModel> Get()
+        [HttpGet("all")]
+        public IEnumerable<CarViewModel> GetAll()
         {
-            return _vehicleSource.Cars.Select(c => new CarViewModel
+            var cars = _vehicleSource.Cars.Select(car => new CarViewModel
             {
-                Id = c.Guid,
-                Brand = c.Brand,
-                Model = c.Model,
-                RegisteredTime = DateTime.Now,
+                Id = car.ToString(),
+                Brand = car.Brand,
+                Model = car.Model
             });
+            return cars;
         }
 
         // GET api/<VehicleController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public CarViewModel? Get(string id)
         {
-            return "value";
+            var car = _vehicleSource.FindCar(id);
+            if (car != null)
+            {
+                return new CarViewModel
+                {
+                    Id = car.ToString(),
+                    Brand = car.Brand,
+                    Model = car.Model
+                };
+            }
+            return null;
         }
 
         // POST api/<VehicleController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IEnumerable<CarViewModel> Post([FromBody] CarViewModel carViewModel)
         {
+            var car = new Car
+            {
+                Id = Guid.NewGuid(),
+                Brand = carViewModel.Brand,
+                Model = carViewModel.Model,
+            };
+            _vehicleSource.AddCar(car);
+            return GetAll();
         }
 
         // PUT api/<VehicleController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public CarViewModel? Put(string id, [FromBody] CarViewModel carViewModel)
         {
+            var existingCar = _vehicleSource.FindCar(id);
+            if (existingCar != null)
+            {
+                existingCar.Brand = carViewModel.Brand;
+                existingCar.Model = carViewModel.Model;
+                _vehicleSource.UpdateCar(existingCar);
+                return new CarViewModel
+                {
+                    Id = existingCar.Id.ToString(),
+                    Brand = existingCar.Brand,
+                    Model = existingCar.Model
+                };
+            }
+            return null;
         }
 
         // DELETE api/<VehicleController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IEnumerable<CarViewModel> Delete(string id)
         {
+            _vehicleSource.DeleteCar(id);
+            return GetAll();
         }
     }
 }

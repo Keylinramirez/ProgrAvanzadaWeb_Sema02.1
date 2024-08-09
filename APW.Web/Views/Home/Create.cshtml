@@ -1,0 +1,42 @@
+﻿@model APW.Web.Controllers.CreateCarViewModel
+
+@{
+    ViewData["Title"] = "Registrar Vehículo";
+}
+
+<h2>Crear Nuevo Vehiculo</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="NewCar.Brand">Brand:</label>
+        <input asp-for="NewCar.Brand" />
+    </div>
+    <div>
+        <label asp-for="NewCar.Model">Model:</label>
+        <input asp-for="NewCar.Model" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create New Car</button>
+</form>
+
+<h2>Cars List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>RegisteredTime</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model.Cars)
+        {
+            <tr>
+                <td>@car.Id</td>
+                <td>@car.Brand</td>
+                <td>@car.Model</td>
+                <td>@car.RegisteredTime</td>
+            </tr>
+        }
+    </tbody>
+</table>

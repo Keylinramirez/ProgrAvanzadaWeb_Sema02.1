@@ -1,0 +1,43 @@
+﻿@model APW.Web.Controllers.UpdateCarViewModel
+
+@{
+    ViewData["Title"] = "Editar Vehículo";
+}
+
+<h2>Editar Vehículo</h2>
+
+<form asp-action="Update" method="post">
+    <input type="hidden" asp-for="Car.Id" />
+    <div>
+        <label asp-for="Car.Brand">Brand:</label>
+        <input asp-for="Car.Brand" />
+    </div>
+    <div>
+        <label asp-for="Car.Model">Model:</label>
+        <input asp-for="Car.Model" />
+    </div>
+    <button type="submit" class="btn btn-warning">Update Car</button>
+</form>
+
+<h2>Cars List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>RegisteredTime</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model.Cars)
+        {
+            <tr>
+                <td>@car.Id</td>
+                <td>@car.Brand</td>
+                <td>@car.Model</td>
+                <td>@car.RegisteredTime</td>
+            </tr>
+        }
+    </tbody>
+</table>

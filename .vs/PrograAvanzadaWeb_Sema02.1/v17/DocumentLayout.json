@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.web\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509C9A49-EEC0-422D-ADEB-5ECAD67EE8CD}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99687E7-4A5F-4F71-8BD8-2526C2F5D6AF}|PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\prograavanzadaweb_sema02.1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99687E7-4A5F-4F71-8BD8-2526C2F5D6AF}|PrograAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1.csproj|solutionrelative:prograavanzadaweb_sema02.1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E203EE-431D-432D-AE94-C62836499E6C}|APW.Tests\\APW.Tests.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.tests\\restprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E203EE-431D-432D-AE94-C62836499E6C}|APW.Tests\\APW.Tests.csproj|solutionrelative:apw.tests\\restprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE938BD6-2D3F-475C-8DF9-66491CD6A9A8}|APW.Architecture\\APW.Architecture.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.architecture\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE938BD6-2D3F-475C-8DF9-66491CD6A9A8}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E203EE-431D-432D-AE94-C62836499E6C}|APW.Tests\\APW.Tests.csproj|c:\\users\\keyli\\onedrive\\documentos\\github\\progravanzadaweb_sema02.1\\apw.tests\\apw.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5E203EE-431D-432D-AE94-C62836499E6C}|APW.Tests\\APW.Tests.csproj|solutionrelative:apw.tests\\apw.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +91,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:03:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Read.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Read.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Read.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Read.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:03:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:03:28.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PrograAvanzadaWeb_Sema02.1\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\PrograAvanzadaWeb_Sema02.1\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "PrograAvanzadaWeb_Sema02.1\\Controllers\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:01:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:00:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:00:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Web\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:00:15.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\RestProviderTests.cs",
+              "RelativeDocumentMoniker": "APW.Tests\\RestProviderTests.cs",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\RestProviderTests.cs",
+              "RelativeToolTip": "APW.Tests\\RestProviderTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:54:29.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APW.Tests",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\APW.Tests.csproj",
+              "RelativeDocumentMoniker": "APW.Tests\\APW.Tests.csproj",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\APW.Tests.csproj",
+              "RelativeToolTip": "APW.Tests\\APW.Tests.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T07:53:33.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Architecture\\GlobalSuppressions.cs",
+              "RelativeToolTip": "APW.Architecture\\GlobalSuppressions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:46:15.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APW.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\keyli\\OneDrive\\Documentos\\GitHub\\ProgrAvanzadaWeb_Sema02.1\\APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "APW.Tests\\obj\\Debug\\net8.0\\APW.Tests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:43:56.349Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -17,8 +17,11 @@ public class PlayerSource
 
     public IEnumerable<Player> ParseAndReturnData()
     {
+        //var result = JsonProvider.DeserializeSimple<IEnumerable<Player>>(_players);
+        //return result ?? Enumerable.Empty<Player>();
+
         var result = JsonProvider.DeserializeSimple<IEnumerable<Player>>(_players);
-        return result ?? Enumerable.Empty<Player>();
+        return result!;
     }
 }
 

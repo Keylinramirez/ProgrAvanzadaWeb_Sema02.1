@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="Views\Vehiculo\" />
+    <ProjectReference Include="..\APW.Architecture\APW.Architecture.csproj" />
+    <ProjectReference Include="..\APW.DataSource\APW.DataSource.csproj" />
+    <ProjectReference Include="..\PrograAvanzadaWeb_Sema02.1\PrograAvanzadaWeb_Sema02.1.csproj" />
   </ItemGroup>
 
 </Project>

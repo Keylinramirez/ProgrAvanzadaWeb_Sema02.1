@@ -1,4 +1,4 @@
-@PrograAvanzadaWeb_Sema02._1_HostAddress = http://localhost:5052
+@PrograAvanzadaWeb_Sema02._1_HostAddress = http://localhost:5221
 
 GET {{PrograAvanzadaWeb_Sema02._1_HostAddress}}/weatherforecast/
 Accept: application/json

@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\APW.Architecture\APW.Architecture.csproj" />
-    <ProjectReference Include="..\APW.Indicators\APW.Indicators.csproj" />
+    <ProjectReference Include="..\APW.Indicators\APW.Service.csproj" />
     <ProjectReference Include="..\APW.Models\APW.Models.csproj" />
   </ItemGroup>
 

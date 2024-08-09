@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APW.Indicators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5257a78ca0eac00b93f516feb9806bed7e4bf70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+360d87f82c6ad26a780fb0c9323096607e9192f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("APW.Indicators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APW.Indicators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
